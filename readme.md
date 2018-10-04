@@ -34,6 +34,7 @@ A curated list of awesome 3D printing resources.
 - [Kentstrapper](http://kentstrapper.com/en)
 - [Lumi Industries](http://lumindustries.com)
 - [MakerBot](http://makerbot.com)
+- [Prusa](http://Prusa3d.com)
 - [Peachy Printer](http://peachyprinter.com) - The world's first 100$ 3D printer.
 - [Printrbot](http://printrbot.com)
 - [RepRap](http://reprap.org) - Free desktop 3D printer.
@@ -203,7 +204,7 @@ From game assets:
 
 - [3Dshap.es](http://3dshap.es) - Find 3D Printable Designs Using 3D shapes.
 - [Yobi3d](https://yobi3d.com) - 3D model search engine with direct 3D printing support via [3D Hubs](https://3dhubs.com).
-
+- [Yeggi](https://yeggi.com) - 3D model search engine
 
 ## Technologies
 
